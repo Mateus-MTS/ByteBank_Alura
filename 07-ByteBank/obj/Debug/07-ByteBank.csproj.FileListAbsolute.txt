@@ -1,0 +1,7 @@
+C:\Users\mateu\source\repos\ByteBank\07-ByteBank\bin\Debug\07-ByteBank.exe.config
+C:\Users\mateu\source\repos\ByteBank\07-ByteBank\bin\Debug\07-ByteBank.exe
+C:\Users\mateu\source\repos\ByteBank\07-ByteBank\bin\Debug\07-ByteBank.pdb
+C:\Users\mateu\source\repos\ByteBank\07-ByteBank\obj\Debug\07-ByteBank.csproj.AssemblyReference.cache
+C:\Users\mateu\source\repos\ByteBank\07-ByteBank\obj\Debug\07-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\ByteBank\07-ByteBank\obj\Debug\07-ByteBank.exe
+C:\Users\mateu\source\repos\ByteBank\07-ByteBank\obj\Debug\07-ByteBank.pdb
